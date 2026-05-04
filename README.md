@@ -81,6 +81,9 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+---
+<img width="1356" height="720" alt="Image" src="https://github.com/user-attachments/assets/8a2b03ad-d299-4e67-a30b-a0bd01572fc2" />
+---
 
 ## 📈 Use Cases
 Personal health tracking
@@ -88,9 +91,12 @@ Fitness and diet planning
 Weight management programs
 Nutrition awareness tools
 
+---
 ⚠️ Disclaimer
 
 This project is for educational purposes only and should not replace professional medical or nutritional advice.
+
+---
 
 ## 🔮 Future Enhancements
 Integration with wearable devices
@@ -98,8 +104,12 @@ Meal tracking system
 AI chatbot nutrition assistant
 Mobile app support
 
+---
+
 ## 📜 License
 
    MIT License
+   
+   ---
 
 ⭐ Thankyou!
