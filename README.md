@@ -1,73 +1,106 @@
-# AI-Health-Diet-Planner
-AI Health Diet Planner is an intelligent system that generates personalized diet plans based on user inputs such as age, weight, height, dietary preferences, and health goals.  The system leverages AI-driven logic to recommend balanced meals, calorie intake, and nutrition strategies for maintaining a healthy lifestyle.
->>>>>>> 51de85c35155e7a6918ac694ff5b463d28e52da1
-=======
+# Welcome to your Lovable project
 # 🥗 AI Health Diet Planner  
-### Personalized Nutrition Planning using AI (React + Vite + Tailwind + shadcn/ui)
+### Personalized Nutrition Planning using AI  
 
+TODO: Document your project here
 ---
 
 ## 📌 Overview  
-AI Health Diet Planner is an intelligent web app that generates personalized diet plans based on user inputs such as age, weight, height, dietary preferences, and health goals. Built with modern React stack for responsive UI.
+AI Health Diet Planner is an intelligent system that generates personalized diet plans based on user inputs such as age, weight, height, dietary preferences, and health goals.
+
+The system leverages AI-driven logic to recommend balanced meals, calorie intake, and nutrition strategies for maintaining a healthy lifestyle.
 
 ---
 
 ## 🎯 Objectives  
+
 - Provide personalized diet recommendations  
-- Track nutrition and fitness progress  
-- Meal planning and recipe suggestions  
-- Responsive web interface  
+- Promote healthy eating habits  
+- Assist users in achieving fitness goals (weight loss/gain/maintenance)  
+- Simplify nutrition planning using AI  
 
 ---
 
 ## ⚙️ Features  
-- 🧾 User profiles and input forms  
-- 🥦 Meal planner and recipe browser  
-- 📊 Nutrition tracker  
-- 🔥 Fitness goal monitoring  
-- 📱 Fully responsive design  
+
+- 🧾 User input (age, weight, height, goal)  
+- 🥦 Customized diet plan generation  
+- 🔥 Calorie requirement estimation  
+- 🧠 AI-based recommendations  
+- 📊 Simple and interactive interface  
+- ⚡ Instant results  
+
+---
+
+## 🏗️ System Workflow  
+```bash
+
+User Input (Age, Weight, Height, Goal)
+│
+▼
+Data Processing & Validation
+│
+▼
+AI Diet Recommendation
+│
+▼
+Personalized Diet Plan Output
+```bash
+
+---
+
+## 🧠 Core Logic  
+
+- BMI Calculation  
+- Calorie requirement estimation (BMR-based)  
+- Goal-based diet adjustment:
+  - Weight Loss → Calorie Deficit  
+  - Weight Gain → Calorie Surplus  
+  - Maintenance → Balanced Intake  
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** React 18 + Vite  
-- **UI:** Tailwind CSS + shadcn/ui  
-- **Routing:** React Router  
-- **Charts:** Recharts  
-- **State:** TanStack Query  
+
+- **Frontend:** Streamlit / HTML / CSS  
+- **Backend:** Python  
+- **Libraries:** NumPy, Pandas  
+- **Optional AI:** OpenAI / Gemini API  
 
 ---
 
-## 🚀 Quick Start  
+## 🚀 Installation  
+
 ```bash
-npm install
-npm run dev
-```
-Visit http://localhost:8080
+git clone https://github.com/your-username/ai-health-diet-planner.git
+cd ai-health-diet-planner
 
+pip install -r requirements.txt
+```bash
+
+## ▶️ Run the Application
+```bash
+streamlit run app.py
+```bash
+
+## 📈 Use Cases
+Personal health tracking
+Fitness and diet planning
+Weight management programs
+Nutrition awareness tools
 ---
+⚠️ Disclaimer
 
-## 📁 Project Structure  
-```
-src/
-├── components/     # UI components (shadcn/ui)
-├── pages/          # Main pages (Home, Planner, Tracker, Recipes)
-├── hooks/          # Custom React hooks
-└── lib/            # Utilities and data
-```
-
+This project is for educational purposes only and should not replace professional medical or nutritional advice.
 ---
-
-## 📈 Pages  
-- **Home** - Welcome and overview  
-- **Planner** - Diet plan generator  
-- **Recipes** - Meal suggestions  
-- **Tracker** - Progress monitoring  
-
+## 🔮 Future Enhancements
+Integration with wearable devices
+Meal tracking system
+AI chatbot nutrition assistant
+Mobile app support
 ---
+## 📜 License
 
-⭐ Star the repo and contribute!
-=======
-# AI-Health-Diet-Planner
-AI Health Diet Planner is an intelligent system that generates personalized diet plans based on user inputs such as age, weight, height, dietary preferences, and health goals.  The system leverages AI-driven logic to recommend balanced meals, calorie intake, and nutrition strategies for maintaining a healthy lifestyle.
->>>>>>> 51de85c35155e7a6918ac694ff5b463d28e52da1
+   MIT License
+---
+⭐ Thankyou!
