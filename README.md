@@ -1,4 +1,3 @@
-# Welcome to your Lovable project
 # 🥗 AI Health Diet Planner  
 ### Personalized Nutrition Planning using AI  
 
