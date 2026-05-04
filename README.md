@@ -2,7 +2,7 @@
 # 🥗 AI Health Diet Planner  
 ### Personalized Nutrition Planning using AI  
 
-TODO: Document your project here
+
 ---
 
 ## 📌 Overview  
@@ -33,7 +33,7 @@ The system leverages AI-driven logic to recommend balanced meals, calorie intake
 ---
 
 ## 🏗️ System Workflow  
-```bash
+```
 
 User Input (Age, Weight, Height, Goal)
 │
@@ -45,7 +45,7 @@ AI Diet Recommendation
 │
 ▼
 Personalized Diet Plan Output
-```bash
+```
 
 ---
 
@@ -71,36 +71,36 @@ Personalized Diet Plan Output
 
 ## 🚀 Installation  
 
-```bash
+```
 git clone https://github.com/your-username/ai-health-diet-planner.git
 cd ai-health-diet-planner
 
 pip install -r requirements.txt
-```bash
+```
 
 ## ▶️ Run the Application
-```bash
+```
 streamlit run app.py
-```bash
+```
 
 ## 📈 Use Cases
 Personal health tracking
 Fitness and diet planning
 Weight management programs
 Nutrition awareness tools
----
+
 ⚠️ Disclaimer
 
 This project is for educational purposes only and should not replace professional medical or nutritional advice.
----
+
 ## 🔮 Future Enhancements
 Integration with wearable devices
 Meal tracking system
 AI chatbot nutrition assistant
 Mobile app support
----
+
 ## 📜 License
 
    MIT License
----
+
 ⭐ Thankyou!
